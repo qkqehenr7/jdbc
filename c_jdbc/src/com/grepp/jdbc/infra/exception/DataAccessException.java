@@ -1,4 +1,4 @@
-package jdbc.infra.exception;
+package com.grepp.jdbc.infra.exception;
 
 public class DataAccessException extends CommonException {
 

@@ -1,4 +1,4 @@
-package jdbc.application.member.code;
+package com.grepp.jdbc.app.member.code;
 
 public enum Grade {
     ANONYMOUS,
